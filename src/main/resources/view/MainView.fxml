@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns="http://javafx.com/javafx/19"
+            xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="com.example.lab6_java.MainController">
+
+    <!-- GÓRA: Tytuł i logo -->
+    <top>
+        <HBox spacing="20.0" alignment="CENTER">
+            <padding>
+                <Insets top="10" bottom="10" left="10" right="10"/>
+            </padding>
+            <Label text="Edytor Obrazów - PWr" style="-fx-font-size: 20px; -fx-font-weight: bold;"/>
+            <ImageView fitHeight="40.0" fitWidth="40.0">
+                <image>
+                    <Image url="@logo.png"/>
+                </image>
+            </ImageView>
+        </HBox>
+    </top>
+
+    <!-- ŚRODEK: Obrazy -->
+    <center>
+        <HBox spacing="10.0">
+            <padding>
+                <Insets top="10" bottom="10" left="10" right="10"/>
+            </padding>
+            <VBox spacing="5.0">
+                <Label text="Obraz oryginalny"/>
+                <ImageView fx:id="originalImageView" fitWidth="300.0" fitHeight="300.0" preserveRatio="true"/>
+            </VBox>
+            <VBox spacing="5.0">
+                <Label text="Obraz przetworzony"/>
+                <ImageView fx:id="processedImageView" fitWidth="300.0" fitHeight="300.0" preserveRatio="true"/>
+            </VBox>
+        </HBox>
+    </center>
+
+    <!-- DÓŁ: Stopka -->
+    <bottom>
+        <Label fx:id="footerLabel" alignment="CENTER">
+            <padding>
+                <Insets top="10" bottom="10" left="10" right="10"/>
+            </padding>
+        </Label>
+    </bottom>
+
+    <!-- PRAWY PANEL: Guziki -->
+    <right>
+        <VBox spacing="10.0" alignment="TOP_CENTER">
+            <padding>
+                <Insets top="10" bottom="10" left="10" right="10"/>
+            </padding>
+
+            <Button fx:id="openImageButton" text="Wczytaj obraz" onAction="#handleOpenImage"
+                    style="-fx-background-color: #a5d6a7; -fx-font-weight: bold;"/>
+            <ComboBox fx:id="operationComboBox" promptText="Wybierz operację"/>
+            <Button fx:id="executeButton" text="Wykonaj" onAction="#handleExecute"
+                    style="-fx-background-color: #a5d6a7; -fx-font-weight: bold;"/>
+            <Button fx:id="scaleButton" text="Skaluj" onAction="#handleScale"
+                    style="-fx-background-color: #a5d6a7; -fx-font-weight: bold;"/>
+
+            <!-- Przycisk obrotu: poziomy układ -->
+            <HBox spacing="5" alignment="CENTER">
+                <Button fx:id="rotateLeftButton" text="⟲" onAction="#handleRotateLeft" prefWidth="40"
+                        style="-fx-background-color: #a5d6a7; -fx-font-weight: bold;"/>
+                <Button fx:id="rotateRightButton" text="⟳" onAction="#handleRotateRight" prefWidth="40"
+                        style="-fx-background-color: #a5d6a7; -fx-font-weight: bold;"/>
+            </HBox>
+
+            <Button fx:id="saveImageButton" text="Zapisz obraz" onAction="#handleSaveImage"
+                    style="-fx-background-color: #a5d6a7; -fx-font-weight: bold;"/>
+        </VBox>
+    </right>
+</BorderPane>

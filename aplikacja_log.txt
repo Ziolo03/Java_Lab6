@@ -1,0 +1,180 @@
+maj 27, 2025 5:28:41 PM com.example.lab6_java.MainController handleOpenImage
+INFO: Załadowano plik: face-of-male-mandrill-baboon-mandrillus-animal-images.jpg
+maj 27, 2025 5:30:00 PM com.example.lab6_java.MainController handleOpenImage
+INFO: Załadowano plik: face-of-male-mandrill-baboon-mandrillus-animal-images.jpg
+maj 27, 2025 5:37:35 PM com.example.lab6_java.MainController handleOpenImage
+INFO: Załadowano plik: face-of-male-mandrill-baboon-mandrillus-animal-images.jpg
+maj 27, 2025 5:38:08 PM com.example.lab6_java.MainController lambda$handleSaveImage$0
+INFO: Zapisano obraz jako: 123.jpg
+maj 27, 2025 5:38:30 PM com.example.lab6_java.MainController lambda$handleSaveImage$0
+INFO: Zapisano obraz jako: 123456789.jpg
+maj 27, 2025 5:39:53 PM com.example.lab6_java.MainController handleOpenImage
+INFO: Załadowano plik: wykresy.jpg
+maj 27, 2025 5:47:40 PM com.example.lab6_java.MainController handleOpenImage
+INFO: Załadowano plik: face-of-male-mandrill-baboon-mandrillus-animal-images.jpg
+maj 28, 2025 4:30:29 PM com.example.lab6_java.MainController handleOpenImage
+INFO: Załadowano plik: wykresy.jpg
+maj 28, 2025 4:31:57 PM com.example.lab6_java.MainController lambda$handleSaveImage$2
+INFO: Zapisano obraz jako: zapisanyobraz.jpg
+maj 28, 2025 4:35:56 PM com.example.lab6_java.MainController handleOpenImage
+INFO: Załadowano plik: wykresy.jpg
+maj 28, 2025 4:36:07 PM com.example.lab6_java.MainController lambda$handleSaveImage$2
+INFO: Zapisano obraz jako: zapisanyobraz.jpg
+maj 28, 2025 4:38:18 PM com.example.lab6_java.MainController handleOpenImage
+INFO: Załadowano plik: wykresy.jpg
+maj 28, 2025 4:38:27 PM com.example.lab6_java.MainController lambda$handleSaveImage$2
+INFO: Zapisano obraz jako: fjdgjfdg.jpg
+maj 28, 2025 4:40:00 PM com.example.lab6_java.MainController handleOpenImage
+INFO: Załadowano plik: wykresy.jpg
+maj 28, 2025 4:40:08 PM com.example.lab6_java.MainController lambda$handleSaveImage$2
+INFO: Zapisano obraz jako: 343rfergrfgr.jpg
+maj 28, 2025 4:56:30 PM com.example.lab6_java.App stop
+INFO: Aplikacja została zamknięta
+maj 28, 2025 4:58:46 PM com.example.lab6_java.MainController handleOpenImage
+INFO: Załadowano plik: wykresy.jpg
+maj 28, 2025 4:58:49 PM com.example.lab6_java.MainController handleExecute
+INFO: Rozpoczęto operację: Negatyw
+maj 28, 2025 4:58:49 PM com.example.lab6_java.MainController lambda$handleExecute$0
+INFO: Wykonano operację: Negatyw
+maj 28, 2025 4:58:52 PM com.example.lab6_java.MainController handleExecute
+INFO: Rozpoczęto operację: Progowanie
+maj 28, 2025 4:58:52 PM com.example.lab6_java.MainController lambda$handleExecute$3
+INFO: Wykonano operację: Progowanie
+maj 28, 2025 4:58:54 PM com.example.lab6_java.MainController handleExecute
+INFO: Rozpoczęto operację: Konturowanie
+maj 28, 2025 4:58:54 PM com.example.lab6_java.MainController lambda$handleExecute$6
+INFO: Wykonano operację: Konturowanie
+maj 28, 2025 4:59:15 PM com.example.lab6_java.App stop
+INFO: Aplikacja została zamknięta
+maj 28, 2025 4:59:50 PM com.example.lab6_java.MainController handleOpenImage
+INFO: Załadowano plik: wykresy.jpg
+maj 28, 2025 4:59:56 PM com.example.lab6_java.MainController handleExecute
+INFO: Rozpoczęto operację: Negatyw
+maj 28, 2025 4:59:56 PM com.example.lab6_java.MainController lambda$handleExecute$0
+INFO: Wykonano operację: Negatyw
+maj 28, 2025 4:59:58 PM com.example.lab6_java.MainController handleRotateLeft
+INFO: Obrócono obraz o -90 stopni
+maj 28, 2025 4:59:58 PM com.example.lab6_java.MainController handleRotateRight
+INFO: Obrócono obraz o 90 stopni
+maj 28, 2025 4:59:59 PM com.example.lab6_java.MainController handleRotateRight
+INFO: Obrócono obraz o 90 stopni
+maj 28, 2025 4:59:59 PM com.example.lab6_java.MainController handleRotateRight
+INFO: Obrócono obraz o 90 stopni
+maj 28, 2025 4:59:59 PM com.example.lab6_java.MainController handleRotateRight
+INFO: Obrócono obraz o 90 stopni
+maj 28, 2025 4:59:59 PM com.example.lab6_java.MainController handleRotateRight
+INFO: Obrócono obraz o 90 stopni
+maj 28, 2025 4:59:59 PM com.example.lab6_java.MainController handleRotateRight
+INFO: Obrócono obraz o 90 stopni
+maj 28, 2025 5:00:00 PM com.example.lab6_java.MainController handleRotateRight
+INFO: Obrócono obraz o 90 stopni
+maj 28, 2025 5:00:00 PM com.example.lab6_java.MainController handleRotateRight
+INFO: Obrócono obraz o 90 stopni
+maj 28, 2025 5:00:14 PM com.example.lab6_java.App stop
+INFO: Aplikacja została zamknięta
+maj 28, 2025 5:01:00 PM com.example.lab6_java.App stop
+INFO: Aplikacja została zamknięta
+maj 28, 2025 5:07:33 PM com.example.lab6_java.MainController handleOpenImage
+INFO: Załadowano plik: wykresy.jpg
+maj 28, 2025 5:07:38 PM com.example.lab6_java.MainController handleExecute
+INFO: Rozpoczęto operację: Progowanie
+maj 28, 2025 5:07:38 PM com.example.lab6_java.MainController lambda$handleExecute$3
+INFO: Wykonano operację: Progowanie
+maj 28, 2025 5:07:40 PM com.example.lab6_java.MainController handleExecute
+INFO: Rozpoczęto operację: Konturowanie
+maj 28, 2025 5:07:40 PM com.example.lab6_java.MainController lambda$handleExecute$6
+INFO: Wykonano operację: Konturowanie
+maj 28, 2025 5:07:42 PM com.example.lab6_java.MainController handleExecute
+INFO: Rozpoczęto operację: Negatyw
+maj 28, 2025 5:07:42 PM com.example.lab6_java.MainController lambda$handleExecute$0
+INFO: Wykonano operację: Negatyw
+maj 28, 2025 5:07:48 PM com.example.lab6_java.MainController handleRotateLeft
+INFO: Obrócono obraz o -90 stopni
+maj 28, 2025 5:07:48 PM com.example.lab6_java.MainController handleRotateLeft
+INFO: Obrócono obraz o -90 stopni
+maj 28, 2025 5:07:48 PM com.example.lab6_java.MainController handleRotateLeft
+INFO: Obrócono obraz o -90 stopni
+maj 28, 2025 5:07:49 PM com.example.lab6_java.MainController handleRotateRight
+INFO: Obrócono obraz o 90 stopni
+maj 28, 2025 5:07:49 PM com.example.lab6_java.MainController handleRotateRight
+INFO: Obrócono obraz o 90 stopni
+maj 28, 2025 5:08:06 PM com.example.lab6_java.MainController handleExecute
+INFO: Rozpoczęto operację: Konturowanie
+maj 28, 2025 5:08:06 PM com.example.lab6_java.MainController lambda$handleExecute$6
+INFO: Wykonano operację: Konturowanie
+maj 28, 2025 5:08:57 PM com.example.lab6_java.MainController handleExecute
+INFO: Rozpoczęto operację: Progowanie
+maj 28, 2025 5:08:57 PM com.example.lab6_java.MainController lambda$handleExecute$3
+INFO: Wykonano operację: Progowanie
+maj 28, 2025 5:08:59 PM com.example.lab6_java.MainController handleExecute
+INFO: Rozpoczęto operację: Konturowanie
+maj 28, 2025 5:08:59 PM com.example.lab6_java.MainController lambda$handleExecute$6
+INFO: Wykonano operację: Konturowanie
+maj 28, 2025 5:13:20 PM com.example.lab6_java.MainController handleExecute
+INFO: Rozpoczęto operację: Konturowanie
+maj 28, 2025 5:13:20 PM com.example.lab6_java.MainController lambda$handleExecute$6
+INFO: Wykonano operację: Konturowanie
+maj 28, 2025 5:13:24 PM com.example.lab6_java.MainController handleExecute
+INFO: Rozpoczęto operację: Konturowanie
+maj 28, 2025 5:13:24 PM com.example.lab6_java.MainController lambda$handleExecute$6
+INFO: Wykonano operację: Konturowanie
+maj 28, 2025 5:13:27 PM com.example.lab6_java.MainController handleExecute
+INFO: Rozpoczęto operację: Progowanie
+maj 28, 2025 5:13:27 PM com.example.lab6_java.MainController lambda$handleExecute$3
+INFO: Wykonano operację: Progowanie
+maj 28, 2025 5:13:29 PM com.example.lab6_java.MainController handleExecute
+INFO: Rozpoczęto operację: Progowanie
+maj 28, 2025 5:13:29 PM com.example.lab6_java.MainController lambda$handleExecute$3
+INFO: Wykonano operację: Progowanie
+maj 28, 2025 5:30:44 PM com.example.lab6_java.MainController handleExecute
+INFO: Rozpoczęto operację: Negatyw
+maj 28, 2025 5:30:44 PM com.example.lab6_java.MainController lambda$handleExecute$0
+INFO: Wykonano operację: Negatyw
+maj 28, 2025 5:30:47 PM com.example.lab6_java.MainController handleExecute
+INFO: Rozpoczęto operację: Progowanie
+maj 28, 2025 5:30:47 PM com.example.lab6_java.MainController lambda$handleExecute$3
+INFO: Wykonano operację: Progowanie
+maj 28, 2025 5:30:50 PM com.example.lab6_java.MainController handleExecute
+INFO: Rozpoczęto operację: Konturowanie
+maj 28, 2025 5:30:50 PM com.example.lab6_java.MainController lambda$handleExecute$6
+INFO: Wykonano operację: Konturowanie
+maj 28, 2025 5:31:08 PM com.example.lab6_java.MainController lambda$handleSaveImage$11
+INFO: Zapisano obraz jako: 1234567890.jpg
+maj 28, 2025 5:31:28 PM com.example.lab6_java.MainController handleRotateLeft
+INFO: Obrócono obraz o -90 stopni
+maj 28, 2025 5:31:29 PM com.example.lab6_java.MainController handleRotateRight
+INFO: Obrócono obraz o 90 stopni
+maj 28, 2025 5:31:30 PM com.example.lab6_java.MainController handleRotateRight
+INFO: Obrócono obraz o 90 stopni
+maj 28, 2025 5:31:30 PM com.example.lab6_java.MainController handleRotateRight
+INFO: Obrócono obraz o 90 stopni
+maj 28, 2025 5:31:50 PM com.example.lab6_java.App stop
+INFO: Aplikacja została zamknięta
+maj 28, 2025 5:33:09 PM com.example.lab6_java.MainController handleOpenImage
+INFO: Załadowano plik: wykresy.jpg
+maj 28, 2025 5:33:12 PM com.example.lab6_java.MainController handleExecute
+INFO: Rozpoczęto operację: Progowanie
+maj 28, 2025 5:33:12 PM com.example.lab6_java.MainController lambda$handleExecute$3
+INFO: Wykonano operację: Progowanie
+maj 28, 2025 5:33:19 PM com.example.lab6_java.MainController lambda$handleSaveImage$11
+INFO: Zapisano obraz jako: kwiatek.jpg
+maj 30, 2025 10:34:35 AM com.example.lab6_java.App stop
+INFO: Aplikacja została zamknięta
+cze 01, 2025 11:46:26 AM com.example.lab6_java.App stop
+INFO: Aplikacja została zamknięta
+cze 01, 2025 11:46:55 AM com.example.lab6_java.App stop
+INFO: Aplikacja została zamknięta
+cze 01, 2025 11:47:15 AM com.example.lab6_java.App stop
+INFO: Aplikacja została zamknięta
+cze 01, 2025 11:49:01 AM com.example.lab6_java.MainController handleOpenImage
+INFO: Załadowano plik: wykresy.jpg
+cze 01, 2025 11:49:04 AM com.example.lab6_java.MainController handleExecute
+INFO: Rozpoczęto operację: Negatyw
+cze 01, 2025 11:49:05 AM com.example.lab6_java.MainController lambda$handleExecute$0
+INFO: Wykonano operację: Negatyw
+cze 01, 2025 11:49:36 AM com.example.lab6_java.MainController handleOpenImage
+INFO: Załadowano plik: face-of-male-mandrill-baboon-mandrillus-animal-images.jpg
+cze 01, 2025 11:49:39 AM com.example.lab6_java.MainController handleExecute
+INFO: Rozpoczęto operację: Negatyw
+cze 01, 2025 11:49:39 AM com.example.lab6_java.MainController lambda$handleExecute$0
+INFO: Wykonano operację: Negatyw
